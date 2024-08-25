@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.15",
+    "heartbeatAt": "2022-12-06T13:06:58.955287",
+    "startedAt": "2022-12-06T13:06:57.004287",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:/Users/elias/OneDrive - Universiteit Antwerpen/Documenten/school/DISAI/ProjectDAI/Reinforcement Learning/BasicSimulator/Environment.py",
+    "codePath": "Reinforcement Learning\\BasicSimulator\\Environment.py",
+    "git": {
+        "remote": "https://github.com/amichielsen/ProjectDAI.git",
+        "commit": "3afd058cae3c8a9d88dd4b2efaafac403dc77adb"
+    },
+    "email": "elias.malomgre@gmail.com",
+    "root": "C:/Users/elias/OneDrive - Universiteit Antwerpen/Documenten/school/DISAI/ProjectDAI",
+    "host": "LAPTOP-JEN9Q17H",
+    "username": "elias",
+    "executable": "C:\\Users\\elias\\anaconda3\\envs\\carla4\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {
+        "total": 446.45605087280273,
+        "used": 443.28223037719727
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.347946166992188
+    }
+}

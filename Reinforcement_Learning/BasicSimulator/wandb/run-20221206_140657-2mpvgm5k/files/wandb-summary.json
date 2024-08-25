@@ -1,0 +1,1 @@
+{"new_distance": 17, "action": 6, "new speed": 50, "speed limit": 60, "_timestamp": 1670332035.34329, "_runtime": 18.314001083374023, "_step": 1223, "Distance Reward": -1.4000000000000001, "Speedlimit Reward": 0.31500367136607577, "Action Reward": -16.0, "_wandb": {"runtime": 18}}
